@@ -1,4 +1,5 @@
 PROJECT OVERVIEW
+
 A comprehensive analysis of product sales (car sales) from 2003 to 2005. It includes key metrics like total sales, profit margins, top-selling items, quantity ordered, and product performance by year and category
 It presents an interactive Power BI dashboard designed to analyze historical sales data across various product lines and time periods. It helps uncover trends in product performance, monitor business KPIs, and identify areas of improvement or opportunity.
 
